@@ -1,4 +1,6 @@
 # Face-Alter
+Latent Representation and Exploration of Images Using Variational AutoEncoders
+---
 This library contains an implementation of a Vanilla-VAE trained on the CelebA dataset. The Variational AutoEncoder is used to generate new faces and to alter existing faces. 
 
 You can use the demo and the pre-trained model from the following notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArianAmani/Face-Alter/blob/main/VAE%20Latent%20Exploration.ipynb)
